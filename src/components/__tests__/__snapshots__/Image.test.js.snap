@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Image/> render the Image Component 1`] = `
+<div>
+  <div
+    class="image-box"
+  >
+    <img
+      alt="TajMahal"
+      class="image circle"
+      data-testid="TajMahal-image"
+      src="src/images/tajmahal.jpeg"
+    />
+  </div>
+</div>
+`;
